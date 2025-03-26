@@ -2,7 +2,7 @@
 
 A simple recipe website.
 
-Goal of the project is to build basic HTML chops, working with text, images, and links.
+Goal of the project is to build basic HTML chops, working with text, images, and links. Also getting a feel for basic styling with CSS.
 
 Extra tips and tricks learned along the way:
 
