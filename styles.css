@@ -7,3 +7,10 @@ body {
 h1, h2 {
   font-family: 'Space Grotesk', sans-serif;
 }
+
+img {
+  border: 8px solid gold;
+  border-radius: 4px;
+  width: 500px;
+  height: auto;
+}
