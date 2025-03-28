@@ -5,6 +5,10 @@ body {
   font-size: 18px;
 }
 
+a {
+  display: block;
+}
+
 h1, h2 {
   font-family: 'Space Grotesk', sans-serif;
 }
